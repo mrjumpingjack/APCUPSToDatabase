@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UPSToDatabase": {
+      "commandName": "Project",
+      "commandLineArgs": "ConnectionLost"
+    }
+  }
+}
